@@ -184,7 +184,7 @@ body {
     background-color: rgba(44, 62, 79, 0.8);
 }
 .overlay-lighter:after {
-    background-color: rgba(44, 62, 79, 0.7);
+    background-color: rgb(105 136 165 / 62%);
 }
 .fables-transparent {
     position: absolute;
